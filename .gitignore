@@ -404,4 +404,11 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+# Project secrets and local config
+Secrets.json
+**/Secrets.json
+appsettings.Development.json
+appsettings.Local.json
+*.local.json
+
 
